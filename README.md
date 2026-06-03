@@ -2,16 +2,14 @@
 
 ### My name is Ali, but you can also call me Rogue.
 
-- I use [github](https://github.com/rogue-87) for contributions, nvim plugins development and for my university projects.
-- I use [gitlab](https://gitlab.com/rogue87) for personal projects.
-- Personal Website: [rogue87.gitlab.io](https://rogue87.gitlab.io/)
+- I use [github](https://github.com/rogue-sly) for contributions, nvim plugins development and for my university projects.
+- I use [gitlab](https://gitlab.com/rogue-sly) for personal projects.
+- Personal Website: [rogue-sly.gitlab.io](https://rogue-sly.gitlab.io/)
 
 ## Projects I'm currently working on...
 
-- [Dotbee](https://gitlab.com/rogue87/dotbee) - Easy to use dotfiles manager.
-- [SilphiumOS](https://gitlab.com/rogue87/SilphiumOS) - For learning Operating Systems Development.
-
-<!-- - [Algorithms](https://gitlab.com/rogue87/algorithms) Learning algorithms and data structures in Rust -->
+- [Dotbee](https://gitlab.com/rogue-sly/dotbee) - Easy to use dotfiles manager.
+- [SilphiumOS](https://gitlab.com/rogue-sly/SilphiumOS) - For learning Operating Systems Development.
 
 ## Tools & Stuff I use
 
